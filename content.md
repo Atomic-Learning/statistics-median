@@ -9,3 +9,11 @@ To calculate the median, follow these steps:
 3. **Find the Median**:
    - If n is odd, the median is the value at the middle position.
    - If n is even, the median is the average of the two middle values.
+
+# Example 1: Odd Number of Data Points
+
+In the dataset [3, 1, 4, 2, 5], first arrange the data in ascending order: [1, 2, 3, 4, 5]. Since there are 5 data points (an odd number), the median is the value at the middle position, which is 3.
+
+# Example 2: Even Number of Data Points
+
+In the dataset [3, 4, 4, 2], first arrange the data in ascending order: [2, 3, 4, 4]. Since there are 4 data points (an even number), the median is the average of the two middle values: (3 + 4) / 2 = 3.5.
