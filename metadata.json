@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Statistics: Median",
+    "slug": "statistics-median",
+    "description": "An introduction to the median of a dataset.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "statistics"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "statistics-mean",
+        "statistics-mode"
     ]
 }
